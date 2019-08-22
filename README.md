@@ -7,11 +7,11 @@
 ## Usage
 1. Download this repository with the next command.
 
-    git clone https://github.com/nildiert/Image-converter.git
+    `git clone https://github.com/nildiert/Image-converter.git`
 
 2. Execute the file "oscar_images.py"
 
-    python3 oscar_images.py
+    `python3 oscar_images.py`
 
 ----
 ## Changelog
